@@ -26,3 +26,9 @@ body {
     border: none !important;
     border-width: 0 !important;
 }
+
+.my-button {
+    background-color: #685eae;
+    color: #f0edfe;
+    border-color: #685eae;
+}
