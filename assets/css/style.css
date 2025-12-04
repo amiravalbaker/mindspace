@@ -2,7 +2,7 @@ body {
     background-color: #e9e6f4;
 }
 .hero-image {
-    background-image: url("../images/pexels-suketdedhia-570032.jpg");
+    background-image: url("../images/hero_crop.jpg");
     background-color: #f6c589;
     height: 100vh;
     width: 100%;
@@ -14,8 +14,9 @@ body {
 
 .hero-text {
     text-align: center;
+    font-size: x-large;
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -23,12 +24,26 @@ body {
 
 .navbar-light {
     background-color: #e9e6f4 !important;
-    border: none !important;
-    border-width: 0 !important;
 }
 
+.navbar-brand {
+    font-weight: bold;
+    font-size: xx-large;
+    color: #112f65 !important;
+}
+
+.nav-item {
+    color: #112f65 !important;
+    font-weight: bold;
+}
 .my-button {
     background-color: #685eae;
     color: white;
     border-color: #685eae;
+}
+
+.my-button:hover {
+    background-color: #574f8c;
+    color: white;
+    border-color: #574f8c;
 }
