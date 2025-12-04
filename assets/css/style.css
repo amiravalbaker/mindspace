@@ -37,13 +37,13 @@ body {
     font-weight: bold;
 }
 .my-button {
-    background-color: #685eae;
+    background-color: #112f65;
     color: white;
-    border-color: #685eae;
+    border-color: #112f65;
 }
 
 .my-button:hover {
-    background-color: #574f8c;
+    background-color: #112f65;
     color: white;
-    border-color: #574f8c;
+    border-color: #112f65;
 }
